@@ -14,3 +14,6 @@
 
 #### Python
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+
+### AGI
+- https://help.openai.com/en/articles/8770868-gpt-builder
