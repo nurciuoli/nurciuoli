@@ -17,3 +17,4 @@
 
 #### AGI
 - https://help.openai.com/en/articles/8770868-gpt-builder
+- https://github.com/openai/openai-cookbook/blob/main/examples/Assistants_API_overview_python.ipynb
