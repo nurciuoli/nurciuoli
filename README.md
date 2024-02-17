@@ -15,6 +15,9 @@
 #### Python
 - Pandas - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
 
+#### Fin
+- Awesome-Quant - https://github.com/wilsonfreitas/awesome-quant
+
 #### AGI
 - OA GPT Builder - https://help.openai.com/en/articles/8770868-gpt-builder
 - OA Assistants - https://github.com/openai/openai-cookbook/blob/main/examples/Assistants_API_overview_python.ipynb
