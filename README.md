@@ -10,7 +10,7 @@ Life can be much broader once you discover one simple fact: Everything around yo
 
 Once you learn that, you'll never be the same again. 
 
-Steve Jobs (1955 - 2011)
+- Steve Jobs (1955 - 2011)
 
 
 ### Gallery
